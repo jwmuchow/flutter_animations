@@ -26,8 +26,8 @@ class _UsingAnimationControllerBodyState
   extends State<UsingAnimationControllerBody>
   with SingleTickerProviderStateMixin {
 
-  static const FACE_LEFT_ANGLE = -PI / 2;
-  static const FACE_RIGHT_ANGLE = PI / 2;
+  static const FACE_LEFT_ANGLE = -pi / 2;
+  static const FACE_RIGHT_ANGLE = pi / 2;
 
 
   AnimationController _controller;
